@@ -16,3 +16,4 @@ TreeSeed Reviewer provides independent, reproducible verification and truthful e
 
 Guarantee evidence, cleanup evidence, and fixture identity must remain distinct. A blocked prerequisite cannot be reported as a passed guarantee.
 
+TreeDX is the sole authoring and publication authority for this objective.
